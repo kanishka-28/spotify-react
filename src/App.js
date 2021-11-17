@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      app
+      <button onClick={} className="p-4 bg-green-400" >Login</button>
     </div>
   );
 }
